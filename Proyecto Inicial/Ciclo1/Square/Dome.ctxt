@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Dome
+comment0.text=\r\n\ A\ representation\ of\ a\ dome\ <br>\r\n\ Color,\ positon\ X,\ position\ Y)\ <br>\r\n\ \r\n\ @author\ Monroy\ Cardenas\ Miguel\r\n\ @author\ Rodriguez\ Ropero\ Wilmer\r\n
+comment1.params=color\ x\ y
+comment1.target=Dome(java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Creates\ a\ new\ dome\ with\ the\ given\ parameters\r\n\ @param\ Color\ The\ color\ that\ defines\ the\ dome\r\n\ @param\ x\ The\ x\ coordinate\ in\ the\ plane\r\n\ @param\ y\ The\ y\ coordinate\ in\ the\ plane\r\n
+comment2.params=color
+comment2.target=void\ changeColor(java.lang.String)
+comment2.text=\r\n\ Changes\ The\ color\ of\ a\ dome\r\n\ @param\ Color\ The\ new\ color\ for\ the\ dome\r\n
+comment3.params=
+comment3.target=int[]\ getPosition()
+comment3.text=\r\n\ Gives\ the\ actual\ position\ of\ the\ dome\r\n\ @return\ pos\ The\ list\ of\ the\ coordinates\ for\ the\ dome\r\n
+comment4.params=
+comment4.target=java.lang.String\ getColor()
+comment4.text=\r\n\ Gives\ the\ color\ of\ the\ dome\r\n\ @return\ color\ The\ dome\ color\r\n
+comment5.params=
+comment5.target=void\ makeVisible()
+comment5.text=\r\n\ Makes\ the\ dome\ visible\r\n
+comment6.params=
+comment6.target=void\ makeInvisible()
+comment6.text=\r\n\ Makes\ the\ dome\ invisibleR\r\n
+numComments=7

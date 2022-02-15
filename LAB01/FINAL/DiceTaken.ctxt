@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=DiceTaken
+comment0.text=\r\n\ Juego\ tipo\ rompecabezas\ de\ ordenar\ los\ numeros\ \r\n
+comment1.params=n
+comment1.target=DiceTaken(byte)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ DiceTaken\r\n\ @param\ byte\ n\r\n
+comment2.params=x\ y\ z
+comment2.target=void\ rotar(int,\ int,\ byte)
+comment3.params=x\ y
+comment3.target=void\ rotar(int,\ int)
+comment4.params=AcoorX\ AcoorY\ BcoorX\ BcoorY
+comment4.target=void\ deslizar(byte,\ byte,\ byte,\ byte)
+comment5.params=
+comment5.target=void\ verificar()
+comment6.params=
+comment6.target=void\ ganar()
+comment7.params=nombreSonido
+comment7.target=void\ reproducirSonido(java.lang.String)
+comment8.params=
+comment8.target=void\ parpadear()
+numComments=9

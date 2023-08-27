@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Fixed
+comment1.params=color\ x\ y
+comment1.target=Fixed(java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Fixed\r\n
+numComments=2

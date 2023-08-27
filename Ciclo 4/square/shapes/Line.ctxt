@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Line
+comment0.text=\r\n\ A\ line\ that\ can\ be\ manipulated\ and\ draws\ itself\ on\ a\ canvas.\r\n\ \r\n\ @author\ Monroy\ Cardenas\ Miguel\r\n\ @author\ Rodriguez\ Ropero\ Wilmer\r\n
+comment1.params=x1\ x2\ y1\ y2
+comment1.target=Line(double,\ double,\ double,\ double)
+comment1.text=\r\n\ Creates\ a\ new\ tourist\ with\ the\ given\ parameters\r\n\ @param\ x1\ The\ x\ coordinate\ for\ the\ first\ point\r\n\ @param\ x2\ The\ y\ coordinate\ for\ the\ first\ point\r\n\ @param\ y1\ The\ x\ coordinate\ for\ the\ second\ point\r\n\ @param\ x2\ The\ y\ coordinate\ for\ the\ second\ point\r\n
+comment2.params=
+comment2.target=void\ makeVisible()
+comment2.text=\r\n\ Make\ this\ rectangle\ visible.\ If\ it\ was\ already\ visible,\ do\ nothing.\r\n
+comment3.params=
+comment3.target=void\ makeInvisible()
+comment3.text=\r\n\ Make\ this\ line\ invisible.\ If\ it\ was\ already\ invisible,\ do\ nothing.\r\n
+comment4.params=
+comment4.target=void\ draw()
+comment4.text=\r\n\ Draw\ the\ line\ with\ current\ specifications\ on\ screen.\r\n
+comment5.params=
+comment5.target=void\ erase()
+comment5.text=\r\n\ Erase\ the\ line\ on\ screen.\r\n
+numComments=6
